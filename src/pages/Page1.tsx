@@ -81,11 +81,11 @@ function Page1() {
           toursData.map((el, ind) =>
           )
         } */}
-        <StCards title={"my tour"} Description={"my des"} pos="left" img="card-img1" />
-        <StCards title={"my tour"} Description={"my des"} pos="right" img="card-img1" />
-        <StCards title={"my tour"} Description={"my des"} pos="left" img="card-img1" />
-        <StCards title={"my tour"} Description={"my des"} pos="right" img="card-img1" />
-        <StCards title={"my tour"} Description={"my des"} pos="left" img="card-img1" />
+        <StCards title={"my tour"} Description={"my des"} pos="left" img="https://source.unsplash.com/a-boat-is-in-a-large-body-of-water-ciYOQZ7eKQ4" />
+        <StCards title={"my tour"} Description={"my des"} pos="right" img="https://source.unsplash.com/a-boat-is-in-a-large-body-of-water-ciYOQZ7eKQ4" />
+        <StCards title={"my tour"} Description={"my des"} pos="left" img="https://source.unsplash.com/a-boat-is-in-a-large-body-of-water-ciYOQZ7eKQ4" />
+        <StCards title={"my tour"} Description={"my des"} pos="right" img="https://source.unsplash.com/a-boat-is-in-a-large-body-of-water-ciYOQZ7eKQ4" />
+        <StCards title={"my tour"} Description={"my des"} pos="left" img="https://source.unsplash.com/a-boat-is-in-a-large-body-of-water-ciYOQZ7eKQ4" />
 
       </div>
     </div>
