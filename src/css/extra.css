@@ -1,0 +1,50 @@
+.hide {
+    height: 0px;
+    top: 0px;
+}
+
+.line {
+    height: 0px;
+    transition: all 2s ;
+    
+}
+.show {
+    top:0px;
+    height: 400px;
+}
+
+.diamond{
+    opacity: 0;
+    transition: all 0.1s 1s ;
+    border: 2px solid rgb(80, 171, 187);
+    
+}
+.showDiamond{
+    opacity: 1;
+    rotate: 45deg;
+}
+.card{
+    height: 0px;
+    transition: all 2s 2s;
+}
+
+.showCard{
+    height: 400px;
+}
+
+/* @keyframes Extend {
+    0% {
+        height: 0px;
+    }
+    100% {
+        height: 400px;
+    }
+} */
+/* @keyframes Extend {
+    0% {
+        height: 0px;
+    }
+    100% {
+        height: 400px;
+    }
+} */
