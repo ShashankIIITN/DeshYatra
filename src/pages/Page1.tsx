@@ -2,23 +2,23 @@ import { useEffect } from "react"
 import StCards from "../components/StCards"
 import '../css/extra.css'
 
-const toursData = [{
-  "title": "My Tour1",
-  "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit aut, possimus cumque aliquam odit officiis enim sequi maxime alias laboriosam sunt laudantium similique nemo unde quis accusamus voluptate, illo quos omnis. Nisi possimus recusandae dignissimos praesentium minima officiis veniam explicabo ducimus repudiandae rem beatae, vitae optio quos? Beatae, eius autem."
-},
-{
-  "title": "My Tour1",
-  "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit aut, possimus cumque aliquam odit officiis enim sequi maxime alias laboriosam sunt laudantium similique nemo unde quis accusamus voluptate, illo quos omnis. Nisi possimus recusandae dignissimos praesentium minima officiis veniam explicabo ducimus repudiandae rem beatae, vitae optio quos? Beatae, eius autem."
-},
-{
-  "title": "My Tour1",
-  "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit aut, possimus cumque aliquam odit officiis enim sequi maxime alias laboriosam sunt laudantium similique nemo unde quis accusamus voluptate, illo quos omnis. Nisi possimus recusandae dignissimos praesentium minima officiis veniam explicabo ducimus repudiandae rem beatae, vitae optio quos? Beatae, eius autem."
-},
-{
-  "title": "My Tour1",
-  "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit aut, possimus cumque aliquam odit officiis enim sequi maxime alias laboriosam sunt laudantium similique nemo unde quis accusamus voluptate, illo quos omnis. Nisi possimus recusandae dignissimos praesentium minima officiis veniam explicabo ducimus repudiandae rem beatae, vitae optio quos? Beatae, eius autem."
-}
-]
+// const toursData = [{
+//   "title": "My Tour1",
+//   "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit aut, possimus cumque aliquam odit officiis enim sequi maxime alias laboriosam sunt laudantium similique nemo unde quis accusamus voluptate, illo quos omnis. Nisi possimus recusandae dignissimos praesentium minima officiis veniam explicabo ducimus repudiandae rem beatae, vitae optio quos? Beatae, eius autem."
+// },
+// {
+//   "title": "My Tour1",
+//   "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit aut, possimus cumque aliquam odit officiis enim sequi maxime alias laboriosam sunt laudantium similique nemo unde quis accusamus voluptate, illo quos omnis. Nisi possimus recusandae dignissimos praesentium minima officiis veniam explicabo ducimus repudiandae rem beatae, vitae optio quos? Beatae, eius autem."
+// },
+// {
+//   "title": "My Tour1",
+//   "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit aut, possimus cumque aliquam odit officiis enim sequi maxime alias laboriosam sunt laudantium similique nemo unde quis accusamus voluptate, illo quos omnis. Nisi possimus recusandae dignissimos praesentium minima officiis veniam explicabo ducimus repudiandae rem beatae, vitae optio quos? Beatae, eius autem."
+// },
+// {
+//   "title": "My Tour1",
+//   "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit aut, possimus cumque aliquam odit officiis enim sequi maxime alias laboriosam sunt laudantium similique nemo unde quis accusamus voluptate, illo quos omnis. Nisi possimus recusandae dignissimos praesentium minima officiis veniam explicabo ducimus repudiandae rem beatae, vitae optio quos? Beatae, eius autem."
+// }
+// ]
 
 function Page1() {
 
