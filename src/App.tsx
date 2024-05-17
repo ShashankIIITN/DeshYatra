@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import logo from "./assets/Demo_Logo.svg"
 import Page1 from "./pages/Page1"
 import Page2 from "./pages/Page2"
@@ -8,7 +8,6 @@ import { MdOutlineMenu } from "react-icons/md";
 
 function App() {
 
-  const theme = "Dark"
 
   const [isMenu, setisMenu] = useState(false);
 

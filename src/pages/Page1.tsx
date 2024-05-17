@@ -1,5 +1,4 @@
 import { useEffect } from "react"
-import DivLine from "../components/DivLine"
 import StCards from "../components/StCards"
 import '../css/extra.css'
 
